@@ -1,7 +1,7 @@
 # Are you leaving?
 Machine learning based approach to predict the attrition rate of employees of an organization to help management in keeping them.
 
-> Our solution to (this)[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/machine-learning/predict-the-employee-attrition-rate-in-organizations-1d700a97/] Hackerearth Data Science challenge.
+> Our solution to [this](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/machine-learning/predict-the-employee-attrition-rate-in-organizations-1d700a97/) Hackerearth Data Science challenge.
 
 
 ---
