@@ -15,7 +15,7 @@ Employee attrition is a major cost to an organization and predicting such attrit
 Collaborators:
 
 > Team Mates<br>
-        * [Nitika Kamboj](https://linkedin.com/in/nitika-kamboj)
+        * Nitika Kamboj | [LinkedIn](https://linkedin.com/in/nitika-kamboj)
         <br>
-        * [Samar Srivastava](https://linkedin.com/in/samacker77l)
+        * Samar Srivastava | [LinkedIn](https://linkedin.com/in/samacker77l)
 
